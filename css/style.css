@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100;700&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+.navbar {
+    background-color: #EBB702;
+        padding: 15px;
+        text-align: center;
+    }
+
+.corpo {
+background-color: rgb(235, 233, 233);
+background-position: 100%;
+}
+
+h1 {
+font-family: 'Antonio', sans-serif ;
+text-align: center;
+}
+
+h3 {
+    font-family: 'Antonio', sans-serif ;
+text-align: center;
+}
+
+
+.margin{
+
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+
+p{
+    text-align:  center;
+    font-family: Verdana, Tahoma, sans-serif;
+    background: center;
+}
+
+body{
+    block-size: 50px;
+}
+
+.apresentacao{
+    background-color: rgb(216, 216, 216);
+}
+
+.apresentacao2{
+    background-color: rgb(255, 251, 251);;
+}
